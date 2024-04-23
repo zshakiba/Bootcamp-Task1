@@ -94,9 +94,9 @@ span {
 
 /* Cards */
 .card {
-  border-radius: 20px;
+  /* border-radius: 20px; */
   overflow: hidden;
-  box-shadow: 0 0 20px 10px hsla(0, 4%, 95%, 0.986);
+  /* box-shadow: 0 0 20px 10px hsla(0, 4%, 95%, 0.986); */
   max-width: 450px;
 }
 
